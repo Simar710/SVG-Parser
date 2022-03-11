@@ -1,5 +1,7 @@
 # SVG-Parser
 
+#Currently in progress...
+
 This project is divided into 4 parts:
 
 1st part:
