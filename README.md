@@ -1,5 +1,7 @@
 # SVG Parser
 
+## Note: Before Running make sure to compile C files using the 'makefile' in 'parser' directory. This will genrate libsvgparser.so which will be used by app.js. More explanation in the following sections.
+
 ## Installation of Node App
 
 ### 1. Install
