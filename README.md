@@ -1,6 +1,13 @@
 # SVG Parser
 
-## Note: Before Running make sure to compile C files using the 'makefile' in 'parser' directory. This will genrate libsvgparser.so which will be used by app.js. More explanation in the following sections.
+### Note: Before Running make sure to compile C files using the 'makefile' in 'parser' directory. This will genrate libsvgparser.so which will be used by app.js. More explanation in the following sections.
+
+### Summay:
+-	Developed a Node.js web application with an Express.js backend and frontend using HTML, CSS, and JavaScript.
+-	Integrated self-made C libraries via ffi-napi for enhanced file processing performance which are directly accessed using Node.js.
+-	Applied AJAX for real-time updates and utilized nodemon & npm for efficient server operation and dependency management.
+
+![image](https://github.com/user-attachments/assets/b0360018-d1cf-4ec2-9281-9c26c3e52054)
 
 ## Installation of Node App
 
